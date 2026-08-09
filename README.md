@@ -1,5 +1,7 @@
 # Use Case: Safety / Quality Regressions
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Safety Quality Regressions — System Design #Shorts](https://youtu.be/08CIgZkzlAs)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
