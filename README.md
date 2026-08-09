@@ -1,5 +1,7 @@
 # Use Case: Safety / Quality Regressions
 
+**YouTube walkthrough:** [Safety Quality Regressions — System Design #Shorts](https://youtu.be/08CIgZkzlAs)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -49,6 +51,9 @@ Reuse behavioral layer and privacy controls from **05**; align categories with *
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Safety Quality Regressions — System Design #Shorts](https://youtu.be/08CIgZkzlAs)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
