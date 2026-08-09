@@ -1,7 +1,7 @@
 # Design: Safety Quality Regressions
 
 **Project:** `safety-quality-regressions`  
-**Parent system design:** [05 — Model Monitoring & Behavior Observability](../05-model-monitoring-observability.md) · [06 — Multi-Layer Safety / Moderation](../06-safety-moderation-pipeline.md)
+**Parent system design:** [05 — Model Monitoring & Behavior Observability](https://github.com/Debashis2007/safety-quality-regressions/blob/main/05-model-monitoring-observability.md) · [06 — Multi-Layer Safety / Moderation](https://github.com/Debashis2007/safety-quality-regressions/blob/main/06-safety-moderation-pipeline.md)
 
 ## 1. What this POC demonstrates
 

@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [05 — Model Monitoring & Behavior Observability](./05-model-monitoring-observability.md)  
-**Also references:** [06 — Safety pipeline](./06-safety-moderation-pipeline.md)
+**Parent system design:** [05 — Model Monitoring & Behavior Observability](https://github.com/Debashis2007/safety-quality-regressions/blob/main/05-model-monitoring-observability.md)  
+**Also references:** [06 — Safety pipeline](https://github.com/Debashis2007/safety-quality-regressions/blob/main/06-safety-moderation-pipeline.md)
 
 ## Users & problem
 
